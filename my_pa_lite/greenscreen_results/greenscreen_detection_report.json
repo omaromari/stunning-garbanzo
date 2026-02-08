@@ -1,0 +1,32 @@
+{
+  "total_images_analyzed": 3,
+  "total_zones_detected": 3,
+  "best_zone": {
+    "image": "view_1.jpg",
+    "score": 97.69573541666666,
+    "bbox": [
+      0,
+      0,
+      4000,
+      3000
+    ],
+    "area_sqpx": 11853953.0
+  },
+  "per_image_results": [
+    {
+      "image": "view_1.jpg",
+      "zones_found": 1,
+      "top_zone_score": 97.69573541666666
+    },
+    {
+      "image": "view_2.jpg",
+      "zones_found": 1,
+      "top_zone_score": 94.338740625
+    },
+    {
+      "image": "view_3.jpg",
+      "zones_found": 1,
+      "top_zone_score": 96.90359895833333
+    }
+  ]
+}

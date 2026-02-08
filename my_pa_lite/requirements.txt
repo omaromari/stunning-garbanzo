@@ -1,0 +1,4 @@
+## Note the following require a Python environment that is between 3.8 and 3.12
+opencv-python
+numpy
+matplotlib
