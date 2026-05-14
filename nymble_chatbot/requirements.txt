@@ -1,0 +1,49 @@
+## The following are general requirements for running Python code both as scripts and within Jupyter notebooks.
+## These requirements are not exhaustive and may vary based on the specific libraries and frameworks used in your project.
+## Ensure you have the latest version of pip and setuptools
+# Core libraries
+notebook
+ipython
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tensorflow
+
+# PyTorch and related packages
+torch --extra-index-url https://download.pytorch.org/whl/cu113
+torchvision --extra-index-url https://download.pytorch.org/whl/cu113
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+
+# Other libraries
+keras
+opencv-python
+requests
+beautifulsoup4
+Flask
+SQLAlchemy
+pytest
+sphinx
+mkdocs
+streamlit
+langchain
+transformers
+gpt4all
+sentence-transformers
+openai
+# For Jupyter Notebook extensions and enhancements
+pydantic
+fastapi
+bitsandbytes
+accelerate>=0.26.0
+# Optional libraries for specific tasks
+# nltk
+# spacy
+# textblob
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
+# nltk.download('stopwords')
+# nltk.download('omw-1.4')
