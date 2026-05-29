@@ -16,6 +16,14 @@ local LLM.
 - Python 3.9 or higher
 - Basic Python familiarity (functions, lists, dicts)
 - ~5 GB free disk space (for the LLM in Modules 4–5)
+- [Git](https://git-scm.com/) installed
+
+Clone this repository to get all tutorial files:
+
+```bash
+git clone https://github.com/omaromari/stunning-garbanzo.git
+cd stunning-garbanzo/tutorial
+```
 
 Run the environment check before you start:
 
